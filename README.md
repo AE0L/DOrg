@@ -27,7 +27,7 @@ extensions = ['jpg', 'png', 'webm', 'gif']
 [EXCLUSIONS]
 folders = ['sorted', 'directories', 'unknown']
 files = ['dorg.exe', 'dorg.config.ini', 'logs.txt']
-extensions = ['py', 'spec']
+extensions = []
 ```
 
 ## Roadmap
